@@ -1,0 +1,11 @@
+{
+    "name": "guilhermesilva/basico",
+    "autoload": {
+        "psr-4": {
+            "Guilhermesilva\\Basico\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
